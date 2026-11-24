@@ -1,0 +1,19 @@
+body {
+  font-family: "Inter", sans-serif;
+  background-color: #0d0d0d;
+  color: #e5e5e5;
+}
+
+h2 {
+  color: #3b82f6;
+}
+
+a {
+  color: #3b82f6;
+  text-decoration: none;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+}
