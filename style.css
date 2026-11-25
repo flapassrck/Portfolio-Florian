@@ -13,7 +13,21 @@ a {
   text-decoration: none;
 }
 
+header {
+  text-align: center;
+  padding: 40px 20px;
+}
+
 nav ul {
   display: flex;
+  justify-content: center;
   list-style: none;
+  padding: 0;
+  gap: 20px;
+}
+
+section {
+  padding: 30px 20px;
+  max-width: 900px;
+  margin: 0 auto;
 }
