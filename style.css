@@ -75,7 +75,7 @@ textarea {
 }
 
 button {
-  background-color: #3b82f6;
+  background-color: #2563eb;
   color: white;
   border: none;
   border-radius: 8px;
@@ -86,7 +86,7 @@ button {
 }
 
 button:hover {
-  background-color: #2563eb;
+  background-color: #1d4ed8;
 }
 
 /* footer */
