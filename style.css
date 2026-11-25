@@ -31,3 +31,26 @@ section {
   max-width: 900px;
   margin: 0 auto;
 }
+
+.compet {
+  display: grid;
+  gap: 15px;
+  grid-template-columns: 1fr 1fr;
+}
+
+.compet h3 {
+  background-color: #1a1a1a;
+  border: 1px solid #333;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+  margin: 0;
+}
+
+.projet {
+  background-color: #1a1a1a;
+  border: 1px solid #333;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 15px;
+}
