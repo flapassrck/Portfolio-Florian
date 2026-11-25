@@ -55,6 +55,8 @@ section {
   margin-bottom: 15px;
 }
 
+/* Formulaire */
+
 label {
   display: block;
   margin-top: 15px;
@@ -82,7 +84,25 @@ button {
   cursor: pointer;
 }
 
+/* footer */
+
 footer {
   text-align: center;
   padding: 30px 20px;
+}
+
+/* Responsive design pour plus grand écran */
+
+@media (min-width: 768px) {
+  h1 {
+    font-size: 3rem;
+  }
+
+  section {
+    padding: 50px 20px;
+  }
+
+  .compet {
+    grid-template-columns: repeat(4, 1fr);
+  }
 }
