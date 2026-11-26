@@ -27,6 +27,10 @@ nav ul {
   gap: 20px;
 }
 
+nav a:hover {
+  color: #93c5fd;
+}
+
 section {
   padding: 20px;
   max-width: 900px;
